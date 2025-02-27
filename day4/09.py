@@ -1,5 +1,5 @@
 import random
-
+#create a team with 2 people in a team in a random way
 def randomteam(l):
     l1=list(l.split("\n"))
     m=len(l1)
