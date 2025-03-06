@@ -1,0 +1,5 @@
+2025-03-06 16:11:55,522 - Expression: 2+3 | Result: 5.0
+2025-03-06 16:12:01,699 - Expression: 5-3/8 | Result: 4.625
+2025-03-06 16:12:09,176 - Expression: ()5 | Result: Error: unexpected EOF while parsing (<string>, line 1)
+2025-03-06 16:15:56,578 - Expression: 2-3+4 | Result: 3.0
+2025-03-06 16:20:12,313 - Expression: 2+3 | Result: 5.0
